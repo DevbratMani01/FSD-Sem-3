@@ -1,0 +1,6 @@
+{
+  "_guide": "Files that import dependencies which were modified more recently. These may be calling changed interfaces. Check when debugging unexpected behavior.",
+  "_generated": "2026-09-09T05:47:44.731Z",
+  "staleFileCount": 0,
+  "files": []
+}

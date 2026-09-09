@@ -1,0 +1,6 @@
+{
+  "_guide": "Files grouped by dependency connectivity. If you change a file, check its cluster for related files that may also need updating.",
+  "_generated": "2026-09-09T05:47:44.730Z",
+  "clusterCount": 0,
+  "clusters": []
+}

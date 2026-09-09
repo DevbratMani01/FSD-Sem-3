@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create user</title>
+</head>
+<body>
+    <h1>Create user</h1>
+
+    <% if (message) { %>
+        <p><%= message %></p>
+        <p><strong><%= user.name %></strong> (<%= user.email %>) was added.</p>
+    <% } %>
+
+    <form action="/hello" method="post">
+        <input type="text" placeholder="Enter ID" name="id">
+        <br>
+        <input type="text" placeholder="Enter name" name="name">
+        <br>
+        <input type="text" placeholder="Enter email" name="email">
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
