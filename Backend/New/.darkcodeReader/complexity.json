@@ -1,6 +1,0 @@
-{
-  "_guide": "Functions ranked by cyclomatic complexity (branch count). Complexity > 10 = risky, consider refactoring. Read the actual function before changing it.",
-  "_generated": "2026-09-09T05:47:44.729Z",
-  "highRisk": 0,
-  "files": []
-}
