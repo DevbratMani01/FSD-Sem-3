@@ -1,0 +1,12 @@
+Write a Node.js programe to create a basic HTTP server that handle different URL routes.
+
+The server should:
+
+Display "Home page" when the user visits /.
+Display "About Page" when the user visits /about.
+
+Return a 404 status code and Display"Page not found" for any invalid URL.
+
+Provide a link to return to the Home Page on the 404 page.
+
+Run the server on the port.
